@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.jks
+*.keystore
+*.p12
+*.pem
+*.cer
+*.crt
+*.key
+*.csr
+*.pfx
+*.mobileprovision
+*.orig.*
+npm-debug.*
+
