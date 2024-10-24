@@ -7,5 +7,9 @@ import { ThemedText } from "@/components/ThemedText";
 import { Button, Dialog } from "@rneui/themed";
 
 export const LoginSSO = () => {
-    
+    return (
+        <View>
+            
+        </View>
+    )
 }

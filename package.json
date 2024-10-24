@@ -28,7 +28,12 @@
     "@react-native-google-signin/google-signin": "^13.1.0",
     "@rneui/base": "^0.0.0-edge.2",
     "@rneui/themed": "^0.0.0-edge.2",
+    "expo": "^51.0.38",
     "react": "^18.3.1",
     "react-native": "^0.76.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
   }
 }
